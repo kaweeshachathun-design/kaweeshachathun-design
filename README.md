@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there # 👋 Hi, I'm Chathun Kaweesha
 
-<!--
-**kaweeshachathun-design/kaweeshachathun-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I am an undergraduate student at SLTC Research University, currently studying Cyber Security.  
+I am passionate about technology, networking, and ethical hacking, and I am building my skills to become a professional in the cyber security field.
 
-Here are some ideas to get you started:
+- 🎓 University: SLTC Research University  
+- 📚 Field: Cyber Security  
+- 🌱 Currently learning: Networking, Ethical Hacking, Linux, Programming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Networking (TCP/IP, DNS, HTTP)
+- Linux Fundamentals
+- Python (beginner)
+- Git & GitHub
+- Cyber Security Basics
+
+
+
+## 📫 Contact Me
+- GitHub: https://github.com/your-username
+- Email: your-email@example.com
+
+---
+
+
